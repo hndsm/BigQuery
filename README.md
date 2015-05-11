@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hndsm/BigQuery.png?label=ready&title=Ready)](https://waffle.io/hndsm/BigQuery)
 # BigQuery
 
 BigQuery is a wrapper around the Google api ruby gem designed to make interacting with BigQuery easier.
